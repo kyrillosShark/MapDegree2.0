@@ -1,6 +1,5 @@
 # MapMyDegree
 
-![MapMyDegree Logo](images/logo.png)
 
 ## Overview
 
